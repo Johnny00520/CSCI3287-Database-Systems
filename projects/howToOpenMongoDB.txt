@@ -1,0 +1,6 @@
+
+Open two terminal shells
+
+1) (Enter) mongod
+
+2) (Enter) mongo --host 127.0.0.1:27017
